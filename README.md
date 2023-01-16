@@ -2,6 +2,7 @@
 
 
 ###Skills
+![googlechrome](https://user-images.githubusercontent.com/114391285/212667697-3d8fc6ad-684c-46ec-9e4d-225c2644ba50.svg)
 
 
 

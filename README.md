@@ -1,7 +1,6 @@
-### Hi there 👋aaaaaa
+### Hi there 👋
 
 <!--
-![pngegg](https://user-images.githubusercontent.com/114391285/212666071-5f3668cf-0b73-423d-9fdb-53be0c1c41ad.png)
 
 
 

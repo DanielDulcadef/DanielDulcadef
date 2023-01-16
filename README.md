@@ -8,8 +8,7 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/168/618/png-clipart-responsive-web-design-web-development-bootstrap-cascading-style-sheets-web-browser-world-wide-web-purple-web-design.png" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="100" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=
-DanielDulcadef&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=DanielDulcadef&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
 Here are some ideas to get you started:
 

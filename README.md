@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 ###Skills
 
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

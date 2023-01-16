@@ -3,7 +3,7 @@
 
 ###Skills
 <a href="URL_REDIRECT" target="blank">
-<img align="center" src="URL_TO_YOUR_IMAGE" height="100" />![googlechrome](https://user-images.githubusercontent.com/114391285/212667858-a5f45da3-8397-42e5-b3cf-100631c6d7e6.svg)</a>
+<img align="center" src="![googlechrome](https://user-images.githubusercontent.com/114391285/212667858-a5f45da3-8397-42e5-b3cf-100631c6d7e6.svg)" height="100" /></a>
 
 
 

@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <!--
+Skills
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
-![googlechrome](https://user-images.githubusercontent.com/114391285/212667176-a4b472e9-b6b4-41f6-be9f-cdf6bcc33212.svg)
 
 
 Here are some ideas to get you started:

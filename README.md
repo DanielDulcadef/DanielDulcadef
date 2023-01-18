@@ -9,7 +9,3 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="100" /></a>
 
 
-### Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDulcadef)](https://github.com/anuraghazra/github-readme-stats)
-
